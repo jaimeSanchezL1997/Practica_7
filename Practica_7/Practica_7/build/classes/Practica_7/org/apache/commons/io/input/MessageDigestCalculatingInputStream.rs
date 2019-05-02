@@ -1,0 +1,2 @@
+org.apache.commons.io.input.MessageDigestCalculatingInputStream$MessageDigestMaintainingObserver
+org.apache.commons.io.input.MessageDigestCalculatingInputStream
